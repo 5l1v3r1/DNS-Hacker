@@ -7,9 +7,9 @@ DNS Resolver Hack
 3. This does not work on websites/web systems
 
 # DNS Resolver Hack Details
-1. This is POC where you can request a DNS Forgery for any pc in the world, where there are shares or null shares ipc$ which
-gives access to printers, routers, or anything connected to that machine, you will get access. If you stuck in access, you
-will exactly know his/her username for pc, where you can brute force later on.
+1. This is POC for shares/null shares ipc$ which gives access to printers, routers, or anything connected to
+that machine, you will get access. If you stuck in access, you will exactly know his/her username for pc, where
+you can brute force later on.
 
 # DNS Resolver Hack Attack Method
 DNS Resolver is a software service running on any computer, in this case MIRC/IRC Network. DNS Resolver service forwards DNS 
@@ -28,3 +28,8 @@ If you are connected to null shares, you will see something like routers, printe
 
 # Shares
 If you see hard disk, your in luck, if you hack VHOST, you will see many hard disks in network
+
+# Network Share Scanner
+1. SMB and other share hack software works the same way, right? Wrong!
+1. This is quite different, pc's that don't show up in network share scanners, you can still acccess them with
+their $IPC/Null Shares or get a exact list of usernames, if you see $, it means that is unix
