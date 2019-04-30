@@ -2,7 +2,7 @@
 DNS Resolver Hack
 
 <div align="center">
-    <img src="" width="400px"</img> 
+    <img src="http://oi63.tinypic.com/33dfc4m.jpg" width="400px"</img> 
 </div>
 
 
