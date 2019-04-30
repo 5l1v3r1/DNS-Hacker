@@ -22,7 +22,7 @@ victim DNS, once resolve, we can access victim pc shares or null shares remotly,
 6. If you see $, it means that is unix
 7. If you are stuck at access, you will still know victim exact username or list of usernames available
 
-# Simple Share Hacker Software
+# Misunderstanding for Share Hack
 1. Share hack software works the same way, right? Wrong!
 
 # How to Use Script?
@@ -36,3 +36,6 @@ victim DNS, once resolve, we can access victim pc shares or null shares remotly,
 # Fun Things To Do
 1. Windows: Change victim hosts files or regedit remotely
 3. *nix based system, obtain /etc/shadow /etc/passwd /etc/services
+
+# Things to avoid
+1. Do not over due victims, wait 24 hours otherwise you will over load DNS queries because that will affect your DNS Client
