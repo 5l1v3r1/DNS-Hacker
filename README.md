@@ -22,18 +22,17 @@ victim DNS, once resolve, we can access victim pc shares or null shares remotly,
 6. If you see $, it means that is unix
 7. If you are stuck at access, you will still know victim exact username or list of usernames available
 
-# Network Share Scanner
-1. SMB and other share hack software works the same way, right? Wrong!
+# Simple Share Hacker Software
+1. Share hack software works the same way, right? Wrong!
 
 # How to Use Script?
 1. Load the script into IRC/MIRC Client
-2. Find any victim in IRC/MIRC channel or real life victim (you know victim IP)
-3. Enter /dns Victim_IP (this will using DNS and use DNS Resolving Script)
-4. Once resolved, goto start menu then run enter \\VICTIM_IP that is resolve
-5. In Linux enter: Smbclient //VICTIM_IP (with or without other parameters, if neccessary)
+2. Find any victim in channel or outside IRC/MIRC (you should know IP)
+3. Enter /dns Victim_IP
+4. This will resolve
+5. On Windows: Start menu then run enter \\VICTIM_IP that is resolved (you will see new window)
+5. On Linux: Smbclient //VICTIM_IP (with or without other parameters, if neccessary)
 
 # Fun Things To Do
-1. If your in luck, have full read/write access, do this:
-2. Change victim hosts file 
-3. You can even edit regedit if system is windows (confirm it)
-4. If your into *nix based system, try to change obtain /etc/shadow /etc/passwd /etc/services
+1. Windows: Change victim hosts files or regedit remotely
+3. *nix based system, obtain /etc/shadow /etc/passwd /etc/services
