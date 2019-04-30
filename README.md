@@ -1,9 +1,9 @@
 # F.A.Q
 DNS Resolver Hack
 
-# DNS Resolver Hack Machines
-1. Windows/*nix/mac running custom DNS softwares via MIRC/IRC or sometimes outside IRC/MIRC Network
-2. Even if they are behind LAN/NAT you will still get access
+# System List Machines
+1. Windows/*nix/mac
+2. Hack behind LAN/WLAN/NAT you will still get access
 3. This does not work on websites/web systems
 
 # DNS Resolver Hack Attack Method
