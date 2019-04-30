@@ -24,10 +24,8 @@ victim DNS, once resolve, we can access victim pc shares or null shares remotly,
 
 # Network Share Scanner
 1. SMB and other share hack software works the same way, right? Wrong!
-1. This is quite different, pc's that don't show up in network share scanners, you can still acccess them with
-their $IPC/Null Shares or get a exact list of usernames, if you see $, it means that is unix
 
-# How to Use it?
+# How to Use Script?
 1. Load the script into IRC/MIRC Client
 2. Find any victim in IRC/MIRC channel or real life victim (you know victim IP)
 3. Enter /dns Victim_IP (this will using DNS and use DNS Resolving Script)
