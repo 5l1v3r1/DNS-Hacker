@@ -30,7 +30,7 @@ victim DNS, once resolve, we can access victim pc shares or null shares remotly,
 2. Find any victim in channel or outside IRC/MIRC (you should know IP)
 3. Enter /dns Victim_IP
 4. This will resolve
-5. On Windows: Start menu then run enter \\VICTIM_IP that is resolved (you will see new window)
+5. On Windows: Start menu then run enter \\\VICTIM_IP that is resolved (you will see new window)
 5. On Linux: Smbclient //VICTIM_IP (with or without other parameters, if neccessary)
 
 # Fun Things To Do
