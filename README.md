@@ -1,5 +1,5 @@
-# DNS Resolver Hack
-Hack any Pc in the world
+# F.A.Q
+DNS Resolver Hack
 
 # DNS Resolver Hack Details
 This is POC where you can request a DNS Forgery for any pc in the world, where there are shares or null shares ipc$ which
