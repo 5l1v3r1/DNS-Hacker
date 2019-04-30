@@ -1,5 +1,5 @@
 # F.A.Q
-DNS Hacker
+DNS Attacker
 
 <div align="center">
     <img src="http://oi63.tinypic.com/33dfc4m.jpg" width="400px"</img> 
