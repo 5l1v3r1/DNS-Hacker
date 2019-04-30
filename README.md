@@ -22,12 +22,8 @@ victim DNS, once resolve, we can access his/her pc shares or null shares remotly
 1. There would be read access
 2. There would be write access
 3. There would be read/write access
-
-# Null Shares
-If you are connected to null shares, you will see something like routers, printers, scanners, remote machines
-
-# Shares
-If you see hard disk, your in luck, if you hack VHOST, you will see many hard disks in network
+4. If you see hard disk, your in luck, if you hack VHOST, you will see many hard disks in network
+5. If you are connected to null shares, you will see something like routers, printers, scanners, remote machines
 
 # Network Share Scanner
 1. SMB and other share hack software works the same way, right? Wrong!
