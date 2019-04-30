@@ -1,5 +1,5 @@
 # F.A.Q
-DNS Resolver Hack
+DNS Hacker
 
 <div align="center">
     <img src="http://oi63.tinypic.com/33dfc4m.jpg" width="400px"</img> 
@@ -19,22 +19,15 @@ victim DNS, once resolve, we can access victim pc shares or null shares remotly,
 6. If you see $, it means that is unix
 7. If you are stuck at access, you will still know victim exact username or list of usernames available
 
-# Ideas
+# Things to remember
 1. Windows: Change victim hosts files or regedit remotely
-3. *nix based system, obtain /etc/shadow /etc/passwd /etc/services
-
-# Warning
-1. Do not over due victims, wait 24 hours otherwise you will over load DNS queries because that will affect your DNS Client
-
-# List
-1. It can poison Windows/*nix/mac
-2. LAN/WLAN/NAT
-3. This does not work on websites/web systems
+2. *nix based system, obtain /etc/shadow /etc/passwd /etc/services
+3. Works on Windows/*nix/mac and LAN/WLAN/NAT but not on websites/web systems
+4. Do not over due victims, wait 24 hours otherwise you will over load DNS
+5. If victim is resolved it can be hacked, if not then no
 
 # How-To Section
-1. Load the script into IRC/MIRC Client
-2. Find any victim in channel or outside IRC/MIRC (you should know IP)
-3. Enter /dns Victim_IP
-4. This will resolve
-5. On Windows: Start menu then run enter \\\VICTIM_IP that is resolved (you will see new window)
-5. On Linux: Smbclient //VICTIM_IP (with or without other parameters, if neccessary)
+1. Load the script and find any victim
+2. Command: /dns Victim_IP
+3. On Windows: Start menu then run enter \\\VICTIM_IP that is resolved (you will see new window)
+4. On Linux: Smbclient //VICTIM_IP (with or without other parameters, if neccessary)
