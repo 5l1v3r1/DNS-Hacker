@@ -24,8 +24,22 @@ victim DNS, once resolve, we can access his/her pc shares or null shares remotly
 3. There would be read/write access
 4. If you see hard disk, your in luck, if you hack VHOST, you will see many hard disks in network
 5. If you are connected to null shares, you will see something like routers, printers, scanners, remote machines
+6. If you see $, it means that is unix
 
 # Network Share Scanner
 1. SMB and other share hack software works the same way, right? Wrong!
 1. This is quite different, pc's that don't show up in network share scanners, you can still acccess them with
 their $IPC/Null Shares or get a exact list of usernames, if you see $, it means that is unix
+
+# How to Use it?
+1. Load the script into IRC/MIRC Client
+2. Find any victim in IRC/MIRC channel or real life victim (you know his/her IP)
+3. Enter /dns Victim_IP (this will using DNS and use DNS Resolving Script)
+4. Once resolved, goto start menu then run enter \\VICTIM_IP that is resolve
+5. In Linux enter: Smbclient //VICTIM_IP (with or without other parameters, if neccessary)
+
+# Fun Things To Do
+1. If your in luck, have full read/write access, do this:
+2. Change his/her hosts file 
+3. You can even edit regedit if system is windows (confirm it)
+4. If your into *nix based system, try to change obtain /etc/shadow /etc/passwd /etc/services
